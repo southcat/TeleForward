@@ -1,0 +1,11 @@
+__pycache__/main.cpython-310.pyc
+__pycache__/main.cpython-312.pyc
+__pycache__/telegram.cpython-310.pyc
+__pycache__/telegram.cpython-312.pyc
+.idea/.gitignore
+.idea/dataSources.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
