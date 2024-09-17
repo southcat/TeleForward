@@ -1,6 +1,7 @@
 import sqlite3
 
-db_path = '/app/messages.db'
+# db_path = '/app/messages.db'
+db_path = '/Users/everless/project/pyroforword/messages.db'
 
 
 def init_db():
